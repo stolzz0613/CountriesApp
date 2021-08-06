@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: 'Righteous', cursive;
+}
+
+.Main {
+  padding: 10px;
+  grid-template-columns: minmax(auto, 768px);
+  display: grid;
+  justify-content: center;
+}
