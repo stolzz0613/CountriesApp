@@ -14,7 +14,7 @@ const App = () => {
       <BrowserRouter>
             <Layout>
                 <Switch>
-                    <Route exact path="/CountriesApp/Home" component={Welcome} />
+                    <Route exact path="/CountriesApp/" component={Welcome} />
                     <Route exact path="/CountriesApp/Africa" component={MainView} />
                     <Route exact path="/CountriesApp/Americas" component={MainView} />
                     <Route exact path="/CountriesApp/Asia" component={MainView} />
