@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CountriesApp/Home/static/css/main.dfb66bc6.chunk.css",
-    "main.js": "/CountriesApp/Home/static/js/main.c728dde3.chunk.js",
-    "main.js.map": "/CountriesApp/Home/static/js/main.c728dde3.chunk.js.map",
+    "main.js": "/CountriesApp/Home/static/js/main.625e970d.chunk.js",
+    "main.js.map": "/CountriesApp/Home/static/js/main.625e970d.chunk.js.map",
     "runtime-main.js": "/CountriesApp/Home/static/js/runtime-main.1f8cadb1.js",
     "runtime-main.js.map": "/CountriesApp/Home/static/js/runtime-main.1f8cadb1.js.map",
     "static/js/2.a60b5bfc.chunk.js": "/CountriesApp/Home/static/js/2.a60b5bfc.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1f8cadb1.js",
     "static/js/2.a60b5bfc.chunk.js",
     "static/css/main.dfb66bc6.chunk.css",
-    "static/js/main.c728dde3.chunk.js"
+    "static/js/main.625e970d.chunk.js"
   ]
 }
