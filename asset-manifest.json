@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CountriesApp/Home/static/css/main.dfb66bc6.chunk.css",
-    "main.js": "/CountriesApp/Home/static/js/main.625e970d.chunk.js",
-    "main.js.map": "/CountriesApp/Home/static/js/main.625e970d.chunk.js.map",
-    "runtime-main.js": "/CountriesApp/Home/static/js/runtime-main.1f8cadb1.js",
-    "runtime-main.js.map": "/CountriesApp/Home/static/js/runtime-main.1f8cadb1.js.map",
-    "static/js/2.a60b5bfc.chunk.js": "/CountriesApp/Home/static/js/2.a60b5bfc.chunk.js",
-    "static/js/2.a60b5bfc.chunk.js.map": "/CountriesApp/Home/static/js/2.a60b5bfc.chunk.js.map",
-    "index.html": "/CountriesApp/Home/index.html",
-    "static/css/main.dfb66bc6.chunk.css.map": "/CountriesApp/Home/static/css/main.dfb66bc6.chunk.css.map",
-    "static/js/2.a60b5bfc.chunk.js.LICENSE.txt": "/CountriesApp/Home/static/js/2.a60b5bfc.chunk.js.LICENSE.txt",
-    "static/media/logo.f7309e18.png": "/CountriesApp/Home/static/media/logo.f7309e18.png",
-    "static/media/menu.5250b416.svg": "/CountriesApp/Home/static/media/menu.5250b416.svg",
-    "static/media/x.39a3dbaf.svg": "/CountriesApp/Home/static/media/x.39a3dbaf.svg"
+    "main.css": "/CountriesApp/static/css/main.dfb66bc6.chunk.css",
+    "main.js": "/CountriesApp/static/js/main.c4be4d50.chunk.js",
+    "main.js.map": "/CountriesApp/static/js/main.c4be4d50.chunk.js.map",
+    "runtime-main.js": "/CountriesApp/static/js/runtime-main.93d79dfe.js",
+    "runtime-main.js.map": "/CountriesApp/static/js/runtime-main.93d79dfe.js.map",
+    "static/js/2.a60b5bfc.chunk.js": "/CountriesApp/static/js/2.a60b5bfc.chunk.js",
+    "static/js/2.a60b5bfc.chunk.js.map": "/CountriesApp/static/js/2.a60b5bfc.chunk.js.map",
+    "index.html": "/CountriesApp/index.html",
+    "static/css/main.dfb66bc6.chunk.css.map": "/CountriesApp/static/css/main.dfb66bc6.chunk.css.map",
+    "static/js/2.a60b5bfc.chunk.js.LICENSE.txt": "/CountriesApp/static/js/2.a60b5bfc.chunk.js.LICENSE.txt",
+    "static/media/logo.f7309e18.png": "/CountriesApp/static/media/logo.f7309e18.png",
+    "static/media/menu.5250b416.svg": "/CountriesApp/static/media/menu.5250b416.svg",
+    "static/media/x.39a3dbaf.svg": "/CountriesApp/static/media/x.39a3dbaf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f8cadb1.js",
+    "static/js/runtime-main.93d79dfe.js",
     "static/js/2.a60b5bfc.chunk.js",
     "static/css/main.dfb66bc6.chunk.css",
-    "static/js/main.625e970d.chunk.js"
+    "static/js/main.c4be4d50.chunk.js"
   ]
 }
