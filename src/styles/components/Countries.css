@@ -25,7 +25,7 @@
     font-size: 18px;
     font-weight: bold;
     text-align: center;
-    color: #FF4545;
+
   }
   .Countries-item-info p {
     font-size: 14px;
@@ -38,8 +38,14 @@
     border-radius: 5px 5px 0 0;
     object-fit: contain;
   }
-  .Countries-item section{
+  .Countries-item-info section{
       text-align: center;
+  }
+  .Countries-item-info section button{
+    background-color: #FF4545;
+    color:white;
+    font-weight: bold;
+    border-radius: 6px;
   }
 
   .Countries-borders {

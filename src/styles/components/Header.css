@@ -80,6 +80,7 @@
     .menu-icon {
       width: 45px;
       height: 45px;
+      color: #FF4545;
     }
     .option {
       display: flex;
