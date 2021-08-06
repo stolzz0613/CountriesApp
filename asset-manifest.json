@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CountriesApp/static/css/main.dfb66bc6.chunk.css",
+    "main.css": "/CountriesApp/static/css/main.76b89bcd.chunk.css",
     "main.js": "/CountriesApp/static/js/main.c4be4d50.chunk.js",
     "main.js.map": "/CountriesApp/static/js/main.c4be4d50.chunk.js.map",
     "runtime-main.js": "/CountriesApp/static/js/runtime-main.93d79dfe.js",
@@ -8,7 +8,7 @@
     "static/js/2.a60b5bfc.chunk.js": "/CountriesApp/static/js/2.a60b5bfc.chunk.js",
     "static/js/2.a60b5bfc.chunk.js.map": "/CountriesApp/static/js/2.a60b5bfc.chunk.js.map",
     "index.html": "/CountriesApp/index.html",
-    "static/css/main.dfb66bc6.chunk.css.map": "/CountriesApp/static/css/main.dfb66bc6.chunk.css.map",
+    "static/css/main.76b89bcd.chunk.css.map": "/CountriesApp/static/css/main.76b89bcd.chunk.css.map",
     "static/js/2.a60b5bfc.chunk.js.LICENSE.txt": "/CountriesApp/static/js/2.a60b5bfc.chunk.js.LICENSE.txt",
     "static/media/logo.f7309e18.png": "/CountriesApp/static/media/logo.f7309e18.png",
     "static/media/menu.5250b416.svg": "/CountriesApp/static/media/menu.5250b416.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.93d79dfe.js",
     "static/js/2.a60b5bfc.chunk.js",
-    "static/css/main.dfb66bc6.chunk.css",
+    "static/css/main.76b89bcd.chunk.css",
     "static/js/main.c4be4d50.chunk.js"
   ]
 }
