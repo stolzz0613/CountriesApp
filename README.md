@@ -33,5 +33,6 @@ Podremos encontrar las carpetas:
 
 En el repositorio hay dos ramas (Source y Master): Source contiene los archivos fuente y en master esta el build\
 necesario para el deploy en github pages.
+Mobile version disponible
 
 Nota: La aplicación contiene el logo y colores de Whale&Jaguar de manera intencional.
