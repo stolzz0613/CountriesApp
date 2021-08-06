@@ -14,33 +14,33 @@ const Header = () => {
     <div className="header">
       <div className="logo-nav">
         <div className="logo-container">
-            <Link to="/">
+            <Link to="/CountriesApp/Home">
                 <img className="logo" src={logo} alt="Logo"/>
             </Link>
         </div>
         <ul className={click ? "nav-options active" : "nav-options"}>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="/Americas">
+            <Link to="/CountriesApp/Americas">
                 <p>AMERICAS</p>
             </Link>
           </li>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="/Europe">
+            <Link to="/CountriesApp/Europe">
                 <p>EUROPE</p>
             </Link>
           </li>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="/Asia">
+            <Link to="/CountriesApp/Asia">
                 <p>ASIA</p>
             </Link>
           </li>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="/Africa">
+            <Link to="/CountriesApp/Africa">
                 <p>AFRICA</p>
             </Link>
           </li>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="/Oceania">
+            <Link to="/CountriesApp/Oceania">
                 <p>OCEANIA</p>
             </Link>
           </li>

@@ -6,11 +6,11 @@ import AppContext from '../context/AppContext';
 
 const Home = () => {
     const { state, fetchData } = useContext(AppContext);
-    const location = useLocation().pathname;
+    const location = useLocation().pathname.split("/");
 
     useEffect(() => {
-        fetchData(location);
-    }, [location]);
+        fetchData(location[2]);
+    }, [useLocation().pathname]);
 
 
     return (      

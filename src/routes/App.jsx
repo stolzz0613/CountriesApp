@@ -14,12 +14,12 @@ const App = () => {
       <BrowserRouter>
             <Layout>
                 <Switch>
-                    <Route exact path="/" component={Welcome} />
-                    <Route exact path="/Africa" component={MainView} />
-                    <Route exact path="/Americas" component={MainView} />
-                    <Route exact path="/Asia" component={MainView} />
-                    <Route exact path="/Europe" component={MainView} />
-                    <Route exact path="/Oceania" component={MainView} />
+                    <Route exact path="/CountriesApp/Home" component={Welcome} />
+                    <Route exact path="/CountriesApp/Africa" component={MainView} />
+                    <Route exact path="/CountriesApp/Americas" component={MainView} />
+                    <Route exact path="/CountriesApp/Asia" component={MainView} />
+                    <Route exact path="/CountriesApp/Europe" component={MainView} />
+                    <Route exact path="/CountriesApp/Oceania" component={MainView} />
                 </Switch>
             </Layout>
       </BrowserRouter>
